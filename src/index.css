@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+    position: unset !important;
+}
+
+.css-1fo8y4m {
+    position: absolute;
+    left: 50%;
+    margin-top: 40px;
+    transform: translate(-50%, -50%);
+}
+
+@media (max-width: 620px) {
+    .css-1fo8y4m {
+        width: 50% !important;
+    }
+}
